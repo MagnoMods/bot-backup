@@ -1,0 +1,17 @@
+{
+  "name": "sql-dumper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "@discordjs/rest": "^2.3.0",
+    "archiver": "^7.0.1",
+    "axios": "^1.7.9",
+    "del": "^8.0.0",
+    "discord.js": "^14.16.3",
+    "fs": "^0.0.1-security",
+    "mysqldump": "^3.2.0"
+  }
+}
